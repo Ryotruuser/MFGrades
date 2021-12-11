@@ -1,0 +1,16 @@
+D:\Biblioteca\GarfCodes\projetos\MFGrades\bin\Debug\net5.0\MFGrades.exe
+D:\Biblioteca\GarfCodes\projetos\MFGrades\bin\Debug\net5.0\MFGrades.deps.json
+D:\Biblioteca\GarfCodes\projetos\MFGrades\bin\Debug\net5.0\MFGrades.runtimeconfig.json
+D:\Biblioteca\GarfCodes\projetos\MFGrades\bin\Debug\net5.0\MFGrades.runtimeconfig.dev.json
+D:\Biblioteca\GarfCodes\projetos\MFGrades\bin\Debug\net5.0\MFGrades.dll
+D:\Biblioteca\GarfCodes\projetos\MFGrades\bin\Debug\net5.0\ref\MFGrades.dll
+D:\Biblioteca\GarfCodes\projetos\MFGrades\bin\Debug\net5.0\MFGrades.pdb
+D:\Biblioteca\GarfCodes\projetos\MFGrades\obj\Debug\net5.0\MFGrades.csproj.AssemblyReference.cache
+D:\Biblioteca\GarfCodes\projetos\MFGrades\obj\Debug\net5.0\MFGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biblioteca\GarfCodes\projetos\MFGrades\obj\Debug\net5.0\MFGrades.AssemblyInfoInputs.cache
+D:\Biblioteca\GarfCodes\projetos\MFGrades\obj\Debug\net5.0\MFGrades.AssemblyInfo.cs
+D:\Biblioteca\GarfCodes\projetos\MFGrades\obj\Debug\net5.0\MFGrades.csproj.CoreCompileInputs.cache
+D:\Biblioteca\GarfCodes\projetos\MFGrades\obj\Debug\net5.0\MFGrades.dll
+D:\Biblioteca\GarfCodes\projetos\MFGrades\obj\Debug\net5.0\ref\MFGrades.dll
+D:\Biblioteca\GarfCodes\projetos\MFGrades\obj\Debug\net5.0\MFGrades.pdb
+D:\Biblioteca\GarfCodes\projetos\MFGrades\obj\Debug\net5.0\MFGrades.genruntimeconfig.cache
